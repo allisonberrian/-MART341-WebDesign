@@ -1,0 +1,5 @@
+The world wide web is a network accessed from the Internet. The web is individual pages with content.
+The Internet is connection to routers that request and send information to other routers.
+Directories are folders files live in. It helps organize the path it takes to get to the files.
+VCS will benefit me because I can go back at look at the process and learn from the changes I make.
+My favorite kind of art is photography
