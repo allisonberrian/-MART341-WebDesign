@@ -1,0 +1,12 @@
+1.  Three websites that I use daily are
+    - [Moodle](https://www.umt.edu/umonline/)
+    -[Google](https://www.google.com/)
+    -[Outlook](https://outlook.office.com)
+2. DNS translates the domain name to IP addresses
+3.Data that identifies your computer on web browsers
+4. The three essential parts of a URL are
+    - protocol
+    - domain
+    - path
+
+![My Screenshot](images/assignment03-screenshot.png)
