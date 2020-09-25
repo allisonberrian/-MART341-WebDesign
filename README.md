@@ -13,4 +13,4 @@ Relative URL: /cyberbear/default.php
   ### Week 5
   - I went to umt.edu.The site was very compact with visuals all over the place. There are less pages and fewer buttons to click to navigate the page.
   These last few topics have been a bit challenging trying to get everything to connect together. I feel like a few set backs have allowed me to better understand what I am doing.
-  [My Screenshot](https://github.com/allisonberrian/-MART341-WebDesign/blob/master/assignment-05/images/assignment05-screenshot.png)
+<img src="https://github.com/allisonberrian/-MART341-WebDesign/blob/master/assignment-05/images/assignment05-screenshot.png"/>
