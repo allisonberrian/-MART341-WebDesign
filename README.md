@@ -10,7 +10,11 @@ Relative URL: /cyberbear/default.php
 
  - Mark up language creates the text you see on the page. The one commonly used in development is Hypertext Markup Language (HTML). It is used to interpret and compose text, images, audio and other content.
  ![My Screenshot](assignment-04/images/assignment04-screenshot.png)
-  ### Week 5
+### Week 5
   - I went to umt.edu.The site was very compact with visuals all over the place. There are less pages and fewer buttons to click to navigate the page.
   These last few topics have been a bit challenging trying to get everything to connect together. I feel like a few set backs have allowed me to better understand what I am doing.
 <img src="https://github.com/allisonberrian/-MART341-WebDesign/blob/master/assignment-05/images/assignment05-screenshot.png"/>
+### Week 6
+-  There can only be 6 main documents. Head elements give the browser information. It has processing information and document metadata. The body element is what gets displayed on the clients computer.
+- Structure mark up is the structure of the content being displayed such as spacing, line breaks and lists. Semantic  markup is used to bring attention to specific details or add context.
+- My work cycle for this assignment started with going over the website and then following the steps on the assignment while referencing the website. I followed the steps in Atom then pushed it through on the GitHub desktop app.
