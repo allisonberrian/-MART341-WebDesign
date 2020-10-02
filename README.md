@@ -18,6 +18,7 @@ Relative URL: /cyberbear/default.php
 -  There can only be 6 main documents. Head elements give the browser information. It has processing information and document metadata. The body element is what gets displayed on the clients computer.
 - Structure mark up is the structure of the content being displayed such as spacing, line breaks and lists. Semantic  markup is used to bring attention to specific details or add context.
 - My work cycle for this assignment started with going over the website and then following the steps on the assignment while referencing the website. I followed the steps in Atom then pushed it through on the GitHub desktop app.
+
 <b>Week 7</b>
 - A form I came across while browsing the internet was the University of Montana search bar.
 - Examples of text, selection and button input and their usage is a quiz on Moodle. The text would be an answer box to a long answer question, a selection would be choosing the correct answer in a multiple choice question and a button input would be a submit button to turn quiz into professor.
