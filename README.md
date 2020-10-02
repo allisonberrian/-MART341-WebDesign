@@ -6,6 +6,7 @@ Absolute URL: https://www.umt.edu/cyberbear/default.php
 Relative URL: /cyberbear/default.php
 ![My Screenshot](https://github.com/allisonberrian/-MART341-WebDesign/blob/master/assignment-03/images/assignment03-screenshot.png)
 
+
 <b>Week 4</b>
 - Web browser work by the network providing the rendering engine the requested document. The rendering engine reads the html to construct the content tree (DOM). The CSS documentation is passed by the engine as well to create the styling associated with it (CSOM). This creates the render tree combining the to processing the layout of the page. The web browser I use mostly is Safari. I sometimes use Chrome.
 
