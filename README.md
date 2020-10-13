@@ -26,3 +26,8 @@ Relative URL: /cyberbear/default.php
 - A form I came across while browsing the internet was the University of Montana search bar.
 - Examples of text, selection and button input and their usage is a quiz on Moodle. The text would be an answer box to a long answer question, a selection would be choosing the correct answer in a multiple choice question and a button input would be a submit button to turn quiz into professor.
 - My work cycle for this assignment was skimming over the website. Looking over the assignment and doing what I could on my own before referencing the website to complete the assignment in Atom before I pushed it through the GitHub desktop app.
+<b>Week 8</b>
+-Divs group elements together structurally, classes group similar items, ids are identifying labels, spans identify elements that need to be unique.
+- The advantages a using a service like YouTube or
+Vimeo to host your videos is they can host large high quality versions. The disadvantage is it can be costly.
+- This week I struggled with the embedded links. I talked to a friend and asked for help.
