@@ -32,3 +32,8 @@ Relative URL: /cyberbear/default.php
 - The advantages a using a service like YouTube or
 Vimeo to host your videos is they can host large high quality versions. The disadvantage is it can be costly.
 - This week I struggled with the embedded links. I talked to a friend and asked for help.
+
+<b>Week 9</b>
+- Learning HTML has been very new to me! I had to reference sources to complete assignments!
+- I am excited to see how it all comes together! I am anxious to try and remember everything!
+- The challenges I overcame were trying to really understand the small errors I made and where they were. It took a lot of careful edits to fix some problems!
