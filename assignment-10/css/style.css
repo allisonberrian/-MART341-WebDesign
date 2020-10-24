@@ -1,0 +1,27 @@
+<head>
+   <style>
+
+      h1 {
+           color: white;
+           font-size: 40px;
+
+      }
+      .fashion {
+         color: deeppink;
+         font-weight: bolder;
+      }
+      .hair {
+         color: turquoise;
+         font-weight: bolder;
+      }
+      body {
+   font-family: Arial;
+   background-color: darkgray;
+}
+div.inner-container {
+opacity: 0.5;
+}
+/* I think I am doing this right. */
+
+   </style>
+</head>
