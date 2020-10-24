@@ -1,16 +1,18 @@
 <head>
+</head>
+<body>
    <style>
 
       h1 {
-           color: white;
+         color: white;
            font-size: 40px;
 
       }
-      .fashion {
+      fashion {
          color: deeppink;
          font-weight: bolder;
       }
-      .hair {
+      hair {
          color: turquoise;
          font-weight: bolder;
       }
@@ -24,4 +26,4 @@ opacity: 0.5;
 /* I think I am doing this right. */
 
    </style>
-</head>
+</body>
