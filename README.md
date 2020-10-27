@@ -37,6 +37,7 @@ Vimeo to host your videos is they can host large high quality versions. The disa
 - Learning HTML has been very new to me! I had to reference sources to complete assignments!
 - I am excited to see how it all comes together! I am anxious to try and remember everything!
 - The challenges I overcame were trying to really understand the small errors I made and where they were. It took a lot of careful edits to fix some problems!
+
  <b> Week 10 </b>
  - Universal selector- Uses every element on the page
  Element- used to select elements of a certain type. an example would be selecting all level two head elements.
