@@ -37,3 +37,12 @@ Vimeo to host your videos is they can host large high quality versions. The disa
 - Learning HTML has been very new to me! I had to reference sources to complete assignments!
 - I am excited to see how it all comes together! I am anxious to try and remember everything!
 - The challenges I overcame were trying to really understand the small errors I made and where they were. It took a lot of careful edits to fix some problems!
+ <b> Week 10 </b>
+ - Universal selector- Uses every element on the page
+ Element- used to select elements of a certain type. an example would be selecting all level two head elements.
+ Class- Used for class names assigned to html to select elements of the same function.
+ id- This is like class but a more specific element
+- MEDIUMTURQUOISE #48D1CC RGB(72, 209, 204)
+ DEEPPINK #FF1493 RGB(255, 20, 147)
+ WHITE#ffffff rgb(255, 255, 255);
+- This week I got very confused. I think I figured it our though.
