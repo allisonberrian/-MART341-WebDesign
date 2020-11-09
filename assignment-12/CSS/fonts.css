@@ -1,0 +1,23 @@
+@font-face {
+    font-family: 'Arvo';
+    src: url('../fonts/Arvo-regular.ttf') format('truetype');
+    font-style: normal;
+ }
+
+ @font-face {
+  font-family: 'Lora';
+    src: url('../fonts/Lora-variableFont_wght.ttf') format('truetype');
+    font-weight: 700;
+ }
+
+ @font-face {
+   font-family: 'Source Sherif Pro';
+   src: url('../fonts/SourceSerifPro-Regular.ttf') format('truetype');
+   font-style: normal;
+}
+@font-face {
+   font-family: 'Zilla';
+   src: url('../fonts/Zillaslab-Regular.ttf') format('truetype');
+   font-weight: 700;
+}
+Arvo-regular.ttf
