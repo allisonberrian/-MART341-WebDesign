@@ -58,3 +58,8 @@ Vimeo to host your videos is they can host large high quality versions. The disa
 <b> Week 12 </b>
 - A border is more of a style element than space management tool, it has multiple style options. Padding is the space between the content and the other elements and margins are adding space between two elements
 - I think I was able to figure out the assignment rather well.
+
+<b> Week 13 </b>
+- My photography page was my imaginary client. It needed a simple design
+- A mobile first design is important during todays world because people most times use their phones these days
+- I struggled getting my style to load properly.
