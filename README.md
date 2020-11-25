@@ -63,3 +63,7 @@ Vimeo to host your videos is they can host large high quality versions. The disa
 - My photography page was my imaginary client. It needed a simple design
 - A mobile first design is important during todays world because people most times use their phones these days
 - I struggled getting my style to load properly.
+<b> Final </b>
+- I learned that self-hosting large audio files is very difficult and its best if you service-host
+- I learned that it takes trial and error to figure out exactly how you want your work.
+- I was challenged by my computer crashing and Github crashing and not connecting to Atom.

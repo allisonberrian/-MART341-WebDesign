@@ -1,0 +1,3 @@
+- I learned that self-hosting large audio files is very difficult and its best if you service-host
+- I learned that it takes trial and error to figure out exactly how you want your work.
+- I was challenged by my computer crashing and Github crashing and not connecting to Atom.
