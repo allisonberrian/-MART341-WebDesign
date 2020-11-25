@@ -190,7 +190,7 @@ header {
     /* For width 600px and larger: */
     @media only screen and (min-width: 600px) {
         .seventhimage{
-            content:url("../images/berrian_final.jpg");
+            content:url("../images/berrian_rodeo.jpg");
         }
         .photo6{
             float: left;
